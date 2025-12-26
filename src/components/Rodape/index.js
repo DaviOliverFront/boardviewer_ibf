@@ -9,9 +9,9 @@ const Rodape = () => {
         <footer className='footer'>
             <div className='redes-sociais'>
                 <p>
-                    <FaWhatsapp />
-                    <FaInstagram />
-                    <FaFacebook />
+                    <a href="#whatsapp"> <FaWhatsapp /> </a>
+                    <a href="https://www.instagram.com/ibregularfe/"> <FaInstagram /> </a>
+                    <a href="https://www.facebook.com/IBRegularFe"> <FaFacebook /> </a>
                 </p>
             </div>
             <div className='descricao'>

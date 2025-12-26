@@ -10,10 +10,16 @@
     color: #d7d3c7;;
 }
 
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
 .redes-sociais svg  {
     padding: 15px;
     transition: all 0.3s ease-in-out;
     font-size: 20px;
+    cursor: pointer;
 }
 
 .redes-sociais p {
